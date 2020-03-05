@@ -6,5 +6,5 @@ IntLog allows for monitoring and logging BIOS and DOS interrupts.  IntLog will h
 Usage
 --
 ```
-paladin prepare -r1 
+
 ```
